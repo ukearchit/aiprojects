@@ -93,8 +93,8 @@ This is an active research repository exploring next-generation regulatory intel
 MIT License - see LICENSE file for details
 
 ## Author
-
-ukearchit
+Archit Uke
+(ukearchit)
 
 ---
 
